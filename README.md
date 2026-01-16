@@ -34,7 +34,7 @@
 
 ### 💼 Experience / Education
 
-- **Kyungpook Nat'l Univ.** | B.S. in [Computer Science & Engineering](https://cse.knu.ac.kr/) (**AI Computing Major**)
+- **[Kyungpook Nat'l Univ.](https://cse.knu.ac.kr/)** | B.S. in Computer Science & Engineering (**AI Computing Major**)
   - *2023.03 - Present*
 - **Undergraduate Research Intern** @ [HPC Lab, KNU](https://hpclab.knu.ac.kr/home)
   - *Winter 2025 ~ Present*
