@@ -7,7 +7,7 @@
 
 
 ### 🔍 Research Interests
-- **AI & Deep Learning**: Deep Neural Networks(DNN), Spiking Neural Network (SNN), Vision-Language-Action (VLA) Model
+- **AI & Deep Learning**: Deep Neural Network(DNN), Spiking Neural Network (SNN), Vision-Language-Action (VLA) Model
 - **High Performance Computing**: Processing In Memory (PIM)
 
 
