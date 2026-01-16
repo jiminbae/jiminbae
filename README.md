@@ -16,7 +16,7 @@
 
 
 
-### 📚 Currently studying on...
+### 📚 Currently studying about...
 
 
 **Processing In Memory (PIM)**
