@@ -36,7 +36,7 @@
 
 - [Kyungpook Nat'l Univ.](https://knu.ac.kr/wbbs/wbbs/main/main.action) | B.S. in **Computer Science & Engineering (AI Computing Major)**
   - *2023.03 - Present*
-- **Undergraduate Research Intern** @ [HPC Lab, KNU](https://hpclab.knu.ac.kr/home)
+- **Undergraduate Intern** @ [HPC Lab, KNU](https://hpclab.knu.ac.kr/home)
   - *Winter 2025 ~ Present*
 
 
