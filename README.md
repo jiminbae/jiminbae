@@ -24,7 +24,7 @@
 
 
 **Vison-Language-Action(VLA) Models**
-- NVIDIA AGX Thor에서 구동되는 Isaac Lab 시뮬레이션 환경 내에서 Isaac-GR00T-N1(Nut-pouring) 모델 구동을 위한 환경 구축
+- Isaac Lab 시뮬레이션 환경과 상호작용하는 Isaac-GR00T-N1(Nut-pouring) 모델 구동을 위한 NVIDIA AGX Thor 환경 구축
 
 
 
@@ -34,7 +34,7 @@
 
 ### 💼 Experience / Education
 
-- **[Kyungpook Nat'l Univ.](https://cse.knu.ac.kr/)** | B.S. in Computer Science & Engineering (**AI Computing Major**)
+- [Kyungpook Nat'l Univ.](knu.ac.kr) | B.S. in **Computer Science & Engineering (AI Computing Major)**
   - *2023.03 - Present*
 - **Undergraduate Research Intern** @ [HPC Lab, KNU](https://hpclab.knu.ac.kr/home)
   - *Winter 2025 ~ Present*
