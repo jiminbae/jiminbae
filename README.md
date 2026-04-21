@@ -21,7 +21,7 @@ Undergraduate student at Kyungpook National University, interested in deep learn
 
 ### Ongoing Research
 
-**[KISTI 연계]OpenStack 클라우드 환경에서 GPU 가상화 방식에 따른 LLM 파인튜닝 성능 비교**
+**[KISTI 연계] OpenStack 클라우드 환경에서 GPU 가상화 방식에 따른 LLM 파인튜닝 성능 비교**
 - OpenStack 기반 프라이빗 클라우드에서 GPU 가상화 기법(MIG, PCIe Passthrough)에 따른 LLM 파인튜닝 성능 실증 분석
 - 동일한 48GB VRAM 조건에서 MIG 가상 분할과 물리 GPU Passthrough의 성능 비교
 - LLaMA 3.1 8B QLoRA 워크로드를 Axolotl + Docker 환경으로 자동화하여 벤치마크 수행
