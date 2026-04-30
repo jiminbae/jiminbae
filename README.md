@@ -1,12 +1,6 @@
 # 👋
 
-Undergraduate student at Kyungpook National University, interested in deep learning systems and HPC.
-
----
-
-### Research Interests
-- **AI & Deep Learning**: Deep Neural Networks, Spiking Neural Networks
-- **High Performance Computing**: Heterogeneous Computing, Energy-Efficient HPC
+Undergraduate student at Kyungpook National University
 
 ---
 
