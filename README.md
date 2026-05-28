@@ -12,7 +12,7 @@ Undergraduate student at Kyungpook National University
 * Undergraduate Intern @ [**HPC Lab**, KNU](https://hpclab.knu.ac.kr/home)
   * *Winter 2025 – Present*
  
-* Visiting Student @ [**UC Berkeley** Summer Sessions](https://summer.berkeley.edu/)
+* Visiting Student @ [**UC Berkeley**] Summer Sessions(https://summer.berkeley.edu/)
   * *Summer 2026*
 
 
