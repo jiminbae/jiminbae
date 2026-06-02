@@ -29,6 +29,15 @@ Undergraduate student at Kyungpook National University
 * [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/capstone-project1)
 
 
+**VEIL: Video Face Exchange with Identity Locking**
+
+* Built a target-aware video face-swap pipeline that preserves selected target identities while replacing non-target faces
+* Combined YOLO face detection, BoT-SORT tracking, InsightFace/ArcFace identity matching, and InSwapper-based face replacement
+* Added quality-based fallback blur for small, occluded, or unstable faces
+* Generated annotated output videos with per-frame tracking logs and face metadata
+* [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiminbae/veil)
+
+
 **Channel Similarity-based Spike Encoding for Multivariate Time Series Forecasting**
 
 * Addressed the limitation of Spiking Neural Network-based time series forecasting models that underutilize inter-channel relationships
