@@ -15,6 +15,7 @@ Undergraduate student at Kyungpook National University
 * Visiting Student @ [**UC Berkeley**](https://summer.berkeley.edu/) Summer Sessions
   * *Summer 2026*
 
+---
 
 ### Projects
 
