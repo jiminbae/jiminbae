@@ -78,8 +78,7 @@ Undergraduate student at Kyungpook National University
 * Integrated Supabase-backed data modeling with Next.js API routes for grading, queue management, and student result retrieval
 * Created interactive TA/student interfaces for rubric-based review, AI feedback editing, code/essay grading, and learning recommendations
 
- 
----
+
 
 
 #### Isaac-GR00T Deployment on NVIDIA AGX Thor
