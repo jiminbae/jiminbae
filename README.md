@@ -30,7 +30,6 @@ Undergraduate student at Kyungpook National University
 * Analyzed throughput differences across GPU allocation methods under equivalent VRAM conditions and communication overhead in FSDP2-based Scale-out configurations
 * Paper accepted at **KCC 2026** *(to appear)*
 
----
 
 #### VEIL: Identity-Locked Video Face Exchange
 
@@ -41,7 +40,6 @@ Undergraduate student at Kyungpook National University
 * Added quality-based fallback blur for small, occluded, or unstable faces
 * Generated annotated output videos with per-frame tracking logs and face metadata
 
----
 
 #### Channel-Aware Spike Encoding for Time Series Forecasting
 
@@ -51,7 +49,6 @@ Undergraduate student at Kyungpook National University
 * Quantified channel relationships in multivariate time series using an attention mechanism
 * Incorporated STE-based channel similarity information into spike encoding representations
 
----
 
 #### AI Agent for Civil Complaint Routing & Filtering
 
@@ -61,9 +58,8 @@ Undergraduate student at Kyungpook National University
 * Achieved 78.64% zero-shot accuracy on Daegu Dalseo-gu civil complaint data using LLM embeddings and VectorDB-based similarity search
 * Reduced public officials' workload by detecting and blurring abusive or harassing content and blocking duplicate complaint histories
 
----
 
-#### ELF: Evaluate, Learn, Forward
+#### ELF: AI-Assisted Grading & Feedback System
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/elf)
 
