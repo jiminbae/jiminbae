@@ -15,7 +15,9 @@ Undergraduate student at Kyungpook National University
 * Visiting Student @ [**UC Berkeley**](https://summer.berkeley.edu/) Summer Sessions
   * *Summer 2026*
 
+
 ---
+
 
 ### Projects
 
@@ -31,6 +33,8 @@ Undergraduate student at Kyungpook National University
 * Paper accepted at **KCC 2026** *(to appear)*
 
 
+
+
 #### VEIL: Identity-Locked Video Face Exchange
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/veil)
@@ -39,6 +43,8 @@ Undergraduate student at Kyungpook National University
 * Combined YOLO face detection, BoT-SORT tracking, InsightFace/ArcFace identity matching, and InSwapper-based face replacement
 * Added quality-based fallback blur for small, occluded, or unstable faces
 * Generated annotated output videos with per-frame tracking logs and face metadata
+
+
 
 
 #### Channel-Aware Spike Encoding for Time Series Forecasting
@@ -50,6 +56,8 @@ Undergraduate student at Kyungpook National University
 * Incorporated STE-based channel similarity information into spike encoding representations
 
 
+
+
 #### AI Agent for Civil Complaint Routing & Filtering
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/TowardsZeroComplaints)
@@ -57,6 +65,8 @@ Undergraduate student at Kyungpook National University
 * Built an end-to-end pipeline that analyzes civil complaint content and recommends the responsible department
 * Achieved 78.64% zero-shot accuracy on Daegu Dalseo-gu civil complaint data using LLM embeddings and VectorDB-based similarity search
 * Reduced public officials' workload by detecting and blurring abusive or harassing content and blocking duplicate complaint histories
+
+
 
 
 #### ELF: AI-Assisted Grading & Feedback System
@@ -67,8 +77,10 @@ Undergraduate student at Kyungpook National University
 * Designed n8n automation workflows for assignment creation, submission intake, grade approval, and feedback regeneration
 * Integrated Supabase-backed data modeling with Next.js API routes for grading, queue management, and student result retrieval
 * Created interactive TA/student interfaces for rubric-based review, AI feedback editing, code/essay grading, and learning recommendations
+
  
 ---
+
 
 #### Isaac-GR00T Deployment on NVIDIA AGX Thor
 
@@ -78,7 +90,9 @@ Undergraduate student at Kyungpook National University
 * Designed and executed a SITL workflow in Isaac Sim
 * Deployed ROS on Jetson Thor and applied the workflow to real hardware through HITL
 
+
 ---
+
 
 ### Activities & Awards
 
@@ -86,10 +100,13 @@ Undergraduate student at Kyungpook National University
   [![View Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/TowardsZeroComplaints)
   
 
+
 * **Excellence Award, 2026 Google AI Agent Challenge** — Team Forward (*2025.04 – 2025.06*)
   [![View Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/elf)
 
+
 ---
+
 
 ### Tech Stack
 
