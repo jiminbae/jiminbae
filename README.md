@@ -63,6 +63,17 @@ Undergraduate student at Kyungpook National University
 
 ---
 
+#### ELF: Evaluate, Learn, Forward
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/elf)
+
+* Built an AI-assisted grading and feedback prototype for teaching assistant and student workflows
+* Designed n8n automation workflows for assignment creation, submission intake, grade approval, and feedback regeneration
+* Integrated Supabase-backed data modeling with Next.js API routes for grading, queue management, and student result retrieval
+* Created interactive TA/student interfaces for rubric-based review, AI feedback editing, code/essay grading, and learning recommendations
+ 
+---
+
 #### Isaac-GR00T Deployment on NVIDIA AGX Thor
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/Isaac-GR00T)
@@ -75,8 +86,12 @@ Undergraduate student at Kyungpook National University
 
 ### Activities & Awards
 
-* **Grand Prize, AI Agent Hackathon** — Upstage (*2025.10 – 2025.11*)
+* **Grand Prize, Upstage AI Agent Hackathon** — Team Rough and Ready (*2025.10 – 2025.11*)
   [![View Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/TowardsZeroComplaints)
+  
+
+* **Excellence Award, 2026 Google AI Agent Challenge** — Team Forward (*2025.04 – 2025.06*)
+  [![View Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/elf)
 
 ---
 
