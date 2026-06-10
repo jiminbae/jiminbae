@@ -100,7 +100,7 @@ Undergraduate student at Kyungpook National University
   
 
 
-* **Excellence Award, 2026 Google AI Agent Challenge** — Team Forward (*2025.04 – 2025.06*)
+* **Excellence Award, 2026 Google AI Agent Challenge** — Team Forward (*2026.04 – 2026.06*)
   [![View Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/jiminbae/elf)
 
 
